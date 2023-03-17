@@ -1,0 +1,17 @@
+beautifulsoup4>=4
+black
+flake8
+mypy
+IProgress
+ipython
+jupyter
+notebook
+ipykernel
+nltk
+pandas
+Scrapy
+torch==1.13.1
+sentencepiece
+rich
+faiss-cpu
+sentence-transformers
