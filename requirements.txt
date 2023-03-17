@@ -15,3 +15,5 @@ sentencepiece
 rich
 faiss-cpu
 sentence-transformers
+wikipedia
+matplotlib
